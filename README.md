@@ -1,2 +1,2 @@
 # HackerRank
-This repo contains all my passing solutions to different problems on hackerrank.com
+This repo contains all my passing solutions to different problems on [HackerRank.com](hackerrank.com)
